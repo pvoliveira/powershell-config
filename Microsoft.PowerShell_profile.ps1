@@ -34,3 +34,6 @@ Import-Module -Name oh-my-posh
 
 # Set the default prompt theme
 Set-Theme Paradox
+
+$ThemeSettings.Colors.SessionInfoBackgroundColor = [ConsoleColor]::DarkGray
+$ThemeSettings.Colors.PromptBackgroundColor = [ConsoleColor]::DarkCyan
