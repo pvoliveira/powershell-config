@@ -37,3 +37,5 @@ Set-Theme Paradox
 
 $ThemeSettings.Colors.SessionInfoBackgroundColor = [ConsoleColor]::DarkGray
 $ThemeSettings.Colors.PromptBackgroundColor = [ConsoleColor]::DarkCyan
+$ThemeSettings.Colors.GitLocalChangesColor = [ConsoleColor]::Yellow
+$ThemeSettings.Colors.AdminIconForegroundColor = [ConsoleColor]::Yellow
